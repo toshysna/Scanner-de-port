@@ -1,0 +1,7 @@
+# Fichiers compilés
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
