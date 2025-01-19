@@ -12,7 +12,6 @@ Affichage des Ports Ouverts : Liste les ports ouverts détectés sur la cible.
 
 Horodatage : Affiche l'heure de début et de fin du scan.
 
-### Installation
-Prérequis
+### Installation Prérequis
 
 Python 3.x : Il faut avoir Python 3 installé sur votre système.
