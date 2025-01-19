@@ -1,4 +1,4 @@
-Scanner de Ports en Python
+# Scanner de Ports en Python
 
 Ce projet est un scanner de ports simple écrit en Python. Il permet de vérifier quels ports sont ouverts sur une machine cible, ce qui est utile pour des audits de sécurité, la gestion réseau et les tests d'intrusion. Le scanner utilise des connexions TCP pour déterminer l'état des ports spécifiés.
 Fonctionnalités
